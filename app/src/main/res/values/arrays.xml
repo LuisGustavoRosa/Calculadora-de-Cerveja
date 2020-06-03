@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="marca" >
+        <item>ANTARCTICA</item>
+        <item>AMSTEL</item>
+        <item>BRAHMA</item>
+        <item>BOHEMIA</item>
+        <item>BUDWEISER</item>
+        <item>BAVARIA</item>
+        <item>CORONA</item>
+        <item>DEVASSA</item>
+        <item>EISENBAHN</item>
+        <item>KAISER</item>
+        <item>ITAIPAVA</item>
+        <item>SUBZERO</item>
+        <item>SCHIN</item>
+        <item>SKOL</item>
+        <item>STELLA ARTOIS</item>
+        <item>SKOL BEATS</item>
+    </string-array>
+    <string-array name="ml">
+        <item>350ml</item>
+        <item>355ml</item>
+        <item>473ml</item>
+        <item>550ml</item>
+        <item>600ml</item>
+    </string-array>
+    <string-array name="com_google_android_gms_fonts_certs" />
+</resources>

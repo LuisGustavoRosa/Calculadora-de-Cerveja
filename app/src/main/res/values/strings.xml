@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Comparador de com.Ap1.comparadordecerveja.Cerveja</string>
+    <string-array name="marca" >
+        <item>ANTARCTICA</item>
+        <item>AMSTEL</item>
+        <item>BRAHMA</item>
+        <item>BOHEMIA</item>
+        <item>BUDWEISER</item>
+        <item>BAVARIA</item>
+        <item>CORONA</item>
+        <item>DEVASSA</item>
+        <item>EISENBAHN</item>
+        <item>KAISER</item>
+        <item>HEINEKEN</item>
+        <item>ITAIPAVA</item>
+        <item>POLAR</item>
+        <item>SCHIN</item>
+        <item>SKOL</item>
+        <item>SKOL BEATS</item>
+        <item>STELLA ARTOIS</item>
+        <item>SUBZERO</item>
+    </string-array>
+    <string-array name="ml">
+        <item>250</item>
+        <item>275</item>
+        <item>330</item>
+        <item>343</item>
+        <item>350</item>
+        <item>355</item>
+        <item>473</item>
+        <item>550</item>
+        <item>600</item>
+    </string-array>
+</resources>
